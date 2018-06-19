@@ -2,7 +2,8 @@
 #include <OneWire.h>
 #include <DallasTemperature.h>
 #include <LiquidCrystal.h>
-#include <dht.h>
+#include <dht.h>s
+
 
 // Data wire is plugged into pin 2 on the Arduino
 #define ONE_WIRE_BUS 8
